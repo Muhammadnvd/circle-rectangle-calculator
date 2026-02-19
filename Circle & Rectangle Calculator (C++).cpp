@@ -82,7 +82,7 @@ Rectangle::~Rectangle()
 	
 }
 
-main()
+main()      //main class 
 {
 	int run = 1;
 	string option, choice;
@@ -135,4 +135,5 @@ main()
 		}
 	}
 }
+
 
